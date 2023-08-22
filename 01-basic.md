@@ -13,3 +13,9 @@
 - new => web form 1920 x 1080 unselected artboard => press U then select rectangle => draw a rectangle.
 - pres CTRL + T to resize then press enter to Escape transform (CTRL + T).
 - 
+
+# Panel Hotkeys
+- Open discover : CTRL + F => find tool.
+- 
+
+# Photoshop Interfaces.
