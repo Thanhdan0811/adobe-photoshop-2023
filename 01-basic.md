@@ -1,7 +1,8 @@
 # history 
 - window => history
 - key : ctrl + z : undo multiples steps,
-- ctrl + alt + z : toggle between states. 
+- ctrl + alt + z : toggle between states.
+
 
 
 # Camera Raw 
@@ -18,4 +19,15 @@
 - Open discover : CTRL + F => find tool.
 - 
 
-# Photoshop Interfaces.
+# Get Around. 
+- arrange window : Window => Consolidate All to Tabs.
+
+
+## Zoom 
+- Z to access zoom mode
+- CTRL + 0 (zero) : to zoom default.
+- CTRL + 1 : zoom 100%.
+- default when click is zoom in , to zoom out hold ALT , icon "+" will change to icon "-".
+- hold SPACE then left CLICK and DRAG =>  so can move canva around.
+- press TAB : to show hide all panel. Or press F twice.
+- 
