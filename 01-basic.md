@@ -30,4 +30,12 @@
 - default when click is zoom in , to zoom out hold ALT , icon "+" will change to icon "-".
 - hold SPACE then left CLICK and DRAG =>  so can move canva around.
 - press TAB : to show hide all panel. Or press F twice.
-- 
+
+
+# Export as PNG/JPEG
+- (1) Save for web (legacy) : ALT + CTRL + SHIFT + S
+- (2) Export as : ALT + CTRL + SHIFT + W
+- (3) Right click on layer + select Quick Export as PNG ; (CTRL + K to open Preference and select Export tab, select extension file want to quick export.)
+- (4) Right click on layer + select Quick Export as 
+- PNG-24 : maximun quality and transparency.
+- (3), (4) will export layer that be selected.
