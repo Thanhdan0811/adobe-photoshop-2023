@@ -39,3 +39,13 @@
 - (4) Right click on layer + select Quick Export as 
 - PNG-24 : maximun quality and transparency.
 - (3), (4) will export layer that be selected.
+
+
+# Crop and Straighten Phots 
+- press C to active crop tool.
+- click straighten on options bar , then click on the canva hold and drag follow the axis we want photoshop rotate.
+- We can select content-Aware : Photoshop will aware content and match to new crop.
+- If select : delete cropped pixels => after drop will lose others frame.
+
+# Resize Images
+- 
