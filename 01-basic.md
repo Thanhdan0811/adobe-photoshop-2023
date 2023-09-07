@@ -48,4 +48,14 @@
 - If select : delete cropped pixels => after drop will lose others frame.
 
 # Resize Images
-- 
+- Unlock Image.
+- C1 : CTRL + T (tranform) : drag mouse to resize image.
+- select Maintain Aspect Ratio (small icon between W and H in Options bar) OR while drag whole SHIFT button.
+- C2 : CTRL + ALT + C : change size of canvas.
+- C3 : Use Properties Panel.
+- To Enlarge it :
+  + With single layer : CTRL + ALT + I
+  + Select layer => Right Click => Convert to small Object => CTRL + T to resize, (enter then press C to resize canva then CTRL + T again to enlarge).
+
+- NOTE dont use CTRL + T with text layer.
+- NOTe : use Image => Trim => Select Transparent Pixel => ok , to trim empty space.
