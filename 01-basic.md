@@ -33,8 +33,8 @@
 
 
 # Export as PNG/JPEG
-- (1) Save for web (legacy) : ALT + CTRL + SHIFT + S
-- (2) Export as : ALT + CTRL + SHIFT + W
+- (1) Save for web (legacy) : CTRL + ALT + SHIFT + S
+- (2) Export as : CTRL + ALT + SHIFT + W
 - (3) Right click on layer + select Quick Export as PNG ; (CTRL + K to open Preference and select Export tab, select extension file want to quick export.)
 - (4) Right click on layer + select Quick Export as 
 - PNG-24 : maximun quality and transparency.
@@ -59,3 +59,11 @@
 
 - NOTE dont use CTRL + T with text layer.
 - NOTe : use Image => Trim => Select Transparent Pixel => ok , to trim empty space.
+
+
+# Compress Image.
+- https://tinypng.com/
+- https://www.iloveimg.com/
+- Prefer PNG more then JPEG
+- Or use program PNGGauntlet.
+- 
