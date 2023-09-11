@@ -43,3 +43,10 @@
 - Select Layer and press CTRL + T.
 - On options bar, check Reference point location, to change origin for rotate.
 - Hold ALT and click on reference point to change it position.
+
+
+# Lock Layer.
+- Lock Transparent Pixels.
+- Lock Image pixels : prevent painting over it. (only can move, resize)
+- Lock a layer its position : cannot move layer or resize, can edit paiting.
+- Lock all.
