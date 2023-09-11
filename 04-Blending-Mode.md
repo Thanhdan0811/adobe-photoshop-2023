@@ -1,0 +1,3 @@
+- https://www.thegioididong.com/game-app/cach-su-dung-cac-che-do-blending-mode-trong-photoshop-1341106
+- Blending mode refer to the way pixels from seperate layers interact with each other.
+- To adjust : select layer panel (with normal is default).
