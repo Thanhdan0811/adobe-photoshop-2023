@@ -33,4 +33,7 @@
 
 # Swatches 
 - Window => Swatches.
-- 
+
+# Change color shirt.
+- C1 : Image => Adjustment => replace color.
+- C2 : press B (select Color replacement tool).
