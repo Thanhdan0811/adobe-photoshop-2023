@@ -9,4 +9,12 @@
 # Layer Masks.
 - CTRL + click on layer mask to get selection.
 - CTRL + I : to reverse selected layer mask.
-- 
+
+
+# Lasso Tools, Polygonal Lasso Tools, Magnetic Lasso tool.
+- press L to active lasso tool => Select tool, click hold and drag and release the click to make selection .
+- Polygonal Lasso Tool : each click to draw a line.
+- Magnetic lasso tool : click at 1 point then let go, drag selection.
+- press BackSpace to remove previous step.
+
+# Pen tools.
