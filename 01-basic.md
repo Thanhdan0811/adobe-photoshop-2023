@@ -66,4 +66,11 @@
 - https://www.iloveimg.com/
 - Prefer PNG more then JPEG
 - Or use program PNGGauntlet.
-- 
+
+
+# Color mode : Images => modes
+- RGB : for web
+- CMYK : for print.
+- 1x1 inches with 72 resolution => width 1 inch and height 1 inch => have 72 pixel.
+- 1x1 inches with 300 resolution => width 1 inch and height 1 inch => have 300 pixel.
+- dpi for print, 
