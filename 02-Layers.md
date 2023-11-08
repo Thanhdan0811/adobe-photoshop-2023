@@ -35,3 +35,10 @@
 - Press _X_  to switch color of foreground and background.
 - Press _CTRL + DELETE_ to fill with _background color_.
 - Press _ALT + DELETE_ to fill with _foreground color_.
+
+# shortcut keyboard
+- CTRL + click on arrow group , open layers nearest.
+- ALT + click on arrow group, open layers all in group.
+- ALT + [, ] : change selection layer
+- CTRL + [,] : move layer up-down.
+- 
