@@ -41,4 +41,7 @@
 - ALT + click on arrow group, open layers all in group.
 - ALT + [, ] : change selection layer
 - CTRL + [,] : move layer up-down.
-- 
+- CTRL + E : Merge layers
+- CTRL + SHIFT + E : Merge showed layer.
+
+- CTRL + ALT + SHIFT + E : flattern all layers into 1 layer, not remove layers.
