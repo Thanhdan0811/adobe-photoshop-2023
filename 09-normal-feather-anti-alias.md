@@ -1,0 +1,5 @@
+- Normal with no anti-alias then edge of selection when fill will be have wave , not smooth.
+- anti-alias checked , then selection edge with be smooth.
+- feather with value different 0, then when fill color, edge will be blur. from selection edge blur out 30px, blur in 30px.
+- can use : selection => modify => feather , or before make selection must change feather.
+- seleciton => save selection and load selection (in channel), window => channel.
