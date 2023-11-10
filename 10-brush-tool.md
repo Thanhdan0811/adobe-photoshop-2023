@@ -25,3 +25,10 @@
 - Sampling : Background Swatch => only apply foreground when color of layer match color of back ground.
 - Limit : Continuous , apply at middle point.
 - Limit : Discontinuous, apply at all circle of point pencil.
+
+
+# History brush tool and Art History brush tool : Shortcut Y
+
+
+# Eraser : E
+- Erase brush area.
