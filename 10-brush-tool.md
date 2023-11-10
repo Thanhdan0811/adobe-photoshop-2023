@@ -13,3 +13,15 @@
 - Create a selection area.
 - edit => Define brush preset.
 - 
+
+
+# Pencil tool
+- auto erase : first draw will apply foreground color. second draw if draw on first drew then will apply background color.
+
+
+# Color replacement tool.
+- Sampling : continuous, aplly all where mouse goes.
+- Sampling : Once => only apply with a spefific area.
+- Sampling : Background Swatch => only apply foreground when color of layer match color of back ground.
+- Limit : Continuous , apply at middle point.
+- Limit : Discontinuous, apply at all circle of point pencil.
